@@ -3,6 +3,10 @@
 .settings
 eclipsebin
 
+build/
+gen/
+out/
+
 */target
 pom.xml.*
 release.properties
