@@ -6,6 +6,7 @@ eclipsebin
 build/
 gen/
 out/
+bin/
 
 */target
 pom.xml.*
